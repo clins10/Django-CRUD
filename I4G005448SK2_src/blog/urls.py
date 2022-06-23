@@ -1,5 +1,4 @@
 from django.urls import path
-from pathlib import Path
 from . import views
 
 app_name = "blog"
